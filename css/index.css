@@ -80,7 +80,8 @@ p {
 
 .navbar {
     display: flex;
-    text-align: center
+    text-align: center;
+    align-items: flex-end;
 }
 
 .jumbo-jpg {
