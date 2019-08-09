@@ -143,4 +143,69 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
-}
+
+    #box1 {
+        background: teal;
+    }
+    
+    #box2 {
+        background: gold;
+    }
+    
+    #box3 {
+        background: cadetblue;
+    }
+    
+    #box4 {
+        background: coral;
+    }
+    
+    #box5 {
+        background: crimson;
+    }
+    
+    #box6 {
+        background: forestgreen;
+    }
+    
+    #box7 {
+        background: darkorchid;
+    }
+    
+    #box8 {
+        background: hotpink;
+    }
+    
+    #box9 {
+        background: indigo;
+    }
+    
+    #box10 {
+        background: dodgerblue;
+    }
+    
+    .top-section {
+        justify-content: space-evenly;
+        margin-bottom: 30px;
+        padding-bottom: 20px;
+        border-bottom: 1px dashed black;
+    }
+    
+    .middle-section, .bottom-section {
+        display: flex;
+    }
+    
+    .btn {
+      width: 100px;
+      height: 30px;
+      background: transparent;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      border-radius: 5px; 
+    }
+    
+    .last-section {
+        justify-content: space-evenly;
+        margin-bottom: 30px;
+        padding-bottom: 20px;
+    }
